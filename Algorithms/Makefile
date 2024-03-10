@@ -32,6 +32,9 @@ KruskalMST:
 HeapSort:
 	@$(call run_module)
 
+MooreVotingAlgorithm:
+	@$(call run_module)
+
 clean:
 	@$(call runClean)
 
